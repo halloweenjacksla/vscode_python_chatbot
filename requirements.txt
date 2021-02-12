@@ -1,0 +1,7 @@
+pylint
+chatterbot
+Flask-RESTful
+spacy
+nltk
+pyyaml
+python-dotenv
